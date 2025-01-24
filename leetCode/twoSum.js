@@ -20,4 +20,4 @@ var twoSum = function (nums, target) {
   }
 };
 
-console.log(twoSum([3, 4, 2], 6));
+
