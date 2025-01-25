@@ -7,7 +7,6 @@ var removeDuplicates = function (nums) {
     } else {
       seen[nums[i]] = i;
     }
-    console.log(nums, seen);
   }
   return nums.length;
 };
